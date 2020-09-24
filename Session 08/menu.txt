@@ -1,0 +1,5 @@
+Soto_Madura 15000 2
+Nasi_Goreng 20000 3
+Rujak_Cingur 25000 4
+Es_Teh 3000 3
+Es_Jeruk 5000 4
